@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/discord_msg_repeater", {data:[{}],fetch:{},mutations:void 0});
